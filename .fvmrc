@@ -1,5 +1,5 @@
 {
-  "flutterSdkVersion": "3.27.4",
+  "flutter": "3.27.4",
   "flavors": {
     "lts": "3.10.0",
     "main": "stable",
